@@ -1,0 +1,393 @@
+2024-12-22 21:14:02,044 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-22 21:14:02,948 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getMe "HTTP/1.1 200 OK"
+2024-12-22 21:14:03,228 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/deleteWebhook "HTTP/1.1 200 OK"
+2024-12-22 21:14:03,229 - INFO - Scheduler started
+2024-12-22 21:14:03,229 - INFO - Application started
+2024-12-22 21:14:10,104 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:14:11,192 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/sendMessage "HTTP/1.1 200 OK"
+2024-12-22 21:14:20,406 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:14:20,685 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:14:21,766 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/sendMessage "HTTP/1.1 200 OK"
+2024-12-22 21:14:21,766 - INFO - Stopped monitoring for chat_id: 7111763920
+2024-12-22 21:14:30,969 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:14:41,265 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:14:41,660 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:14:41,661 - INFO - Added job "check_all_signals" to job store "default"
+2024-12-22 21:14:42,662 - INFO - Running job "check_all_signals (trigger: interval[0:01:00], next run at: 2024-12-22 13:15:42 UTC)" (scheduled at 2024-12-22 13:14:42.661722+00:00)
+2024-12-22 21:14:43,953 - INFO - Job "check_all_signals (trigger: interval[0:01:00], next run at: 2024-12-22 13:15:42 UTC)" executed successfully
+2024-12-22 21:14:43,954 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/sendMessage "HTTP/1.1 200 OK"
+2024-12-22 21:14:43,955 - INFO - Started monitoring for chat_id: 7111763920
+2024-12-22 21:14:51,943 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:15:02,233 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:15:08,971 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-22 21:15:09,871 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getMe "HTTP/1.1 200 OK"
+2024-12-22 21:15:10,149 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/deleteWebhook "HTTP/1.1 200 OK"
+2024-12-22 21:15:10,150 - INFO - Scheduler started
+2024-12-22 21:15:10,150 - INFO - Application started
+2024-12-22 21:15:21,047 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:15:31,325 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:15:41,605 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:15:51,883 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:16:02,165 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:16:12,444 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:16:22,722 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:16:33,001 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:16:39,594 - INFO - Starting Crypto Alert Bot...
+2024-12-22 21:16:39,595 - INFO - Loaded active sessions: {7111763920}
+2024-12-22 21:16:39,701 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-22 21:16:40,614 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getMe "HTTP/1.1 200 OK"
+2024-12-22 21:16:40,888 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/deleteWebhook "HTTP/1.1 200 OK"
+2024-12-22 21:16:40,889 - INFO - Scheduler started
+2024-12-22 21:16:40,889 - INFO - Application started
+2024-12-22 21:16:51,798 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:17:02,076 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:17:12,354 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:17:22,632 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:17:32,912 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:17:43,224 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:17:53,502 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:18:03,781 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:18:14,061 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:18:20,095 - CryptoAlertBot - INFO - ==================================================
+2024-12-22 21:18:20,095 - CryptoAlertBot - INFO - STARTING CRYPTO ALERT BOT
+2024-12-22 21:18:20,095 - CryptoAlertBot - INFO - ==================================================
+2024-12-22 21:18:20,095 - CryptoAlertBot - INFO - Loaded active sessions: {7111763920}
+2024-12-22 21:18:20,202 - CryptoAlertBot - INFO - Telegram bot initialized successfully
+2024-12-22 21:18:20,202 - CryptoAlertBot - INFO - Job queue initialized
+2024-12-22 21:18:20,202 - CryptoAlertBot - INFO - Command handlers added
+2024-12-22 21:18:20,203 - CryptoAlertBot - INFO - Setting up monitoring for saved session: 7111763920
+2024-12-22 21:18:20,214 - CryptoAlertBot - INFO - Job queue started
+2024-12-22 21:18:20,214 - CryptoAlertBot - INFO - Starting bot polling...
+2024-12-22 21:18:41,681 - CryptoAlertBot - INFO - Starting Crypto Alert Bot...
+2024-12-22 21:18:41,682 - CryptoAlertBot - INFO - Loaded active sessions: {7111763920}
+2024-12-22 21:19:04,429 - CryptoAlertBot - INFO - Starting Crypto Alert Bot...
+2024-12-22 21:19:04,429 - CryptoAlertBot - INFO - Loaded active sessions: {7111763920}
+2024-12-22 21:19:17,244 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-22 21:19:18,143 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getMe "HTTP/1.1 200 OK"
+2024-12-22 21:19:18,421 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/deleteWebhook "HTTP/1.1 200 OK"
+2024-12-22 21:19:18,422 - INFO - Scheduler started
+2024-12-22 21:19:18,422 - INFO - Application started
+2024-12-22 21:19:29,309 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:19:39,592 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:19:49,870 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:20:00,152 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:20:10,430 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:20:20,708 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:20:30,988 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:20:41,267 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:20:51,547 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:21:01,825 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:21:07,349 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-22 21:21:08,248 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getMe "HTTP/1.1 200 OK"
+2024-12-22 21:21:08,525 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/deleteWebhook "HTTP/1.1 200 OK"
+2024-12-22 21:21:08,526 - INFO - Scheduler started
+2024-12-22 21:21:08,526 - INFO - Application started
+2024-12-22 21:21:19,408 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:21:29,685 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:21:39,979 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:21:50,254 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:22:00,542 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:22:10,840 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:22:18,204 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-22 21:22:19,105 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getMe "HTTP/1.1 200 OK"
+2024-12-22 21:22:19,383 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/deleteWebhook "HTTP/1.1 200 OK"
+2024-12-22 21:22:19,384 - INFO - Scheduler started
+2024-12-22 21:22:19,384 - INFO - Application started
+2024-12-22 21:22:30,272 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:22:40,552 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:22:50,831 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:23:01,113 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:23:10,821 - INFO - Loaded active sessions: {7111763920}
+2024-12-22 21:23:10,940 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-22 21:23:10,941 - INFO - Starting bot...
+2024-12-22 21:23:10,941 - ERROR - Error in main: Cannot close a running event loop
+2024-12-22 21:23:11,205 - INFO - Loaded active sessions: {7111763920}
+2024-12-22 21:23:11,323 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-22 21:23:11,323 - INFO - Starting bot...
+2024-12-22 21:23:11,324 - ERROR - Error in main: Cannot close a running event loop
+2024-12-22 21:23:11,590 - INFO - Loaded active sessions: {7111763920}
+2024-12-22 21:23:11,706 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-22 21:23:11,706 - INFO - Starting bot...
+2024-12-22 21:23:11,707 - ERROR - Error in main: Cannot close a running event loop
+2024-12-22 21:23:11,976 - INFO - Loaded active sessions: {7111763920}
+2024-12-22 21:23:12,090 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-22 21:23:12,090 - INFO - Starting bot...
+2024-12-22 21:23:12,091 - ERROR - Error in main: Cannot close a running event loop
+2024-12-22 21:23:12,358 - INFO - Loaded active sessions: {7111763920}
+2024-12-22 21:23:12,474 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-22 21:23:12,474 - INFO - Starting bot...
+2024-12-22 21:23:12,474 - ERROR - Error in main: Cannot close a running event loop
+2024-12-22 21:23:12,739 - INFO - Loaded active sessions: {7111763920}
+2024-12-22 21:23:12,853 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-22 21:23:12,853 - INFO - Starting bot...
+2024-12-22 21:23:12,854 - ERROR - Error in main: Cannot close a running event loop
+2024-12-22 21:23:13,129 - INFO - Loaded active sessions: {7111763920}
+2024-12-22 21:23:13,251 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-22 21:23:13,251 - INFO - Starting bot...
+2024-12-22 21:23:13,252 - ERROR - Error in main: Cannot close a running event loop
+2024-12-22 21:23:13,519 - INFO - Loaded active sessions: {7111763920}
+2024-12-22 21:23:13,651 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-22 21:23:13,651 - INFO - Starting bot...
+2024-12-22 21:23:13,652 - ERROR - Error in main: Cannot close a running event loop
+2024-12-22 21:23:13,933 - INFO - Loaded active sessions: {7111763920}
+2024-12-22 21:23:14,052 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-22 21:23:14,052 - INFO - Starting bot...
+2024-12-22 21:23:14,053 - ERROR - Error in main: Cannot close a running event loop
+2024-12-22 21:23:14,348 - INFO - Loaded active sessions: {7111763920}
+2024-12-22 21:23:14,468 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-22 21:23:14,468 - INFO - Starting bot...
+2024-12-22 21:23:14,469 - ERROR - Error in main: Cannot close a running event loop
+2024-12-22 21:23:14,757 - INFO - Loaded active sessions: {7111763920}
+2024-12-22 21:23:14,881 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-22 21:23:14,881 - INFO - Starting bot...
+2024-12-22 21:23:14,881 - ERROR - Error in main: Cannot close a running event loop
+2024-12-22 21:25:17,895 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-22 21:25:17,905 - INFO - Added job "check_all_signals" to job store "default"
+2024-12-22 21:25:17,905 - INFO - Scheduler started
+2024-12-22 21:26:17,749 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-22 21:26:17,758 - INFO - Added job "check_all_signals" to job store "default"
+2024-12-22 21:26:17,758 - INFO - Scheduler started
+2024-12-22 21:27:04,703 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-22 21:27:05,603 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getMe "HTTP/1.1 200 OK"
+2024-12-22 21:27:05,604 - INFO - Added job "check_all_signals" to job store "default"
+2024-12-22 21:27:05,604 - INFO - Scheduler started
+2024-12-22 21:27:05,605 - INFO - Scheduler started
+2024-12-22 21:27:05,605 - INFO - Application started
+2024-12-22 21:27:05,704 - INFO - Running job "check_all_signals (trigger: interval[0:01:00], next run at: 2024-12-22 13:28:05 UTC)" (scheduled at 2024-12-22 13:27:05.703335+00:00)
+2024-12-22 21:27:06,173 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/deleteWebhook "HTTP/1.1 200 OK"
+2024-12-22 21:27:06,174 - ERROR - Job "check_all_signals (trigger: interval[0:01:00], next run at: 2024-12-22 13:28:05 UTC)" raised an exception
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 649, in run_until_complete
+    return future.result()
+  File "/home/gncm/gncm/dev/ta-indicator/crypto_alert_bot.py", line 243, in main
+    await application.running
+TypeError: object bool can't be used in 'await' expression
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/gncm/.local/lib/python3.10/site-packages/apscheduler/executors/base_py3.py", line 30, in run_coroutine_job
+    retval = await job.func(*job.args, **job.kwargs)
+  File "/home/gncm/.local/lib/python3.10/site-packages/telegram/ext/_jobqueue.py", line 240, in job_callback
+    await job.run(job_queue.application)
+  File "/home/gncm/.local/lib/python3.10/site-packages/telegram/ext/_jobqueue.py", line 954, in run
+    await asyncio.shield(self._run(application))
+asyncio.exceptions.CancelledError
+2024-12-22 21:28:06,683 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-22 21:28:07,584 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getMe "HTTP/1.1 200 OK"
+2024-12-22 21:28:07,584 - INFO - Added job "check_all_signals" to job store "default"
+2024-12-22 21:28:07,585 - INFO - Scheduler started
+2024-12-22 21:28:07,585 - INFO - Scheduler started
+2024-12-22 21:28:07,585 - INFO - Application started
+2024-12-22 21:28:07,684 - INFO - Running job "check_all_signals (trigger: interval[0:01:00], next run at: 2024-12-22 13:29:07 UTC)" (scheduled at 2024-12-22 13:28:07.683417+00:00)
+2024-12-22 21:28:08,128 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/deleteWebhook "HTTP/1.1 200 OK"
+2024-12-22 21:28:08,128 - INFO - Application is stopping. This might take a moment.
+2024-12-22 21:28:08,129 - INFO - Scheduler has been shut down
+2024-12-22 21:28:08,140 - INFO - Application.stop() complete
+2024-12-22 21:28:09,256 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/sendMessage "HTTP/1.1 200 OK"
+2024-12-22 21:28:10,200 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/sendMessage "HTTP/1.1 200 OK"
+2024-12-22 21:28:10,200 - INFO - Job "check_all_signals (trigger: interval[0:01:00], next run at: 2024-12-22 13:29:07 UTC)" executed successfully
+2024-12-22 21:28:10,201 - INFO - Scheduler has been shut down
+2024-12-22 21:28:10,578 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-22 21:28:11,462 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getMe "HTTP/1.1 200 OK"
+2024-12-22 21:28:11,462 - INFO - Added job "check_all_signals" to job store "default"
+2024-12-22 21:28:11,463 - INFO - Scheduler started
+2024-12-22 21:28:11,463 - INFO - Scheduler started
+2024-12-22 21:28:11,463 - INFO - Application started
+2024-12-22 21:28:11,578 - INFO - Running job "check_all_signals (trigger: interval[0:01:00], next run at: 2024-12-22 13:29:11 UTC)" (scheduled at 2024-12-22 13:28:11.577885+00:00)
+2024-12-22 21:28:12,074 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/deleteWebhook "HTTP/1.1 200 OK"
+2024-12-22 21:28:12,074 - INFO - Application is stopping. This might take a moment.
+2024-12-22 21:28:12,076 - INFO - Scheduler has been shut down
+2024-12-22 21:28:12,086 - INFO - Application.stop() complete
+2024-12-22 21:28:13,151 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/sendMessage "HTTP/1.1 200 OK"
+2024-12-22 21:28:14,119 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/sendMessage "HTTP/1.1 200 OK"
+2024-12-22 21:28:14,120 - INFO - Job "check_all_signals (trigger: interval[0:01:00], next run at: 2024-12-22 13:29:11 UTC)" executed successfully
+2024-12-22 21:28:14,120 - INFO - Scheduler has been shut down
+2024-12-22 21:28:14,514 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-22 21:28:15,414 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getMe "HTTP/1.1 200 OK"
+2024-12-22 21:28:15,415 - INFO - Added job "check_all_signals" to job store "default"
+2024-12-22 21:28:15,415 - INFO - Scheduler started
+2024-12-22 21:28:15,416 - INFO - Scheduler started
+2024-12-22 21:28:15,416 - INFO - Application started
+2024-12-22 21:28:15,514 - INFO - Running job "check_all_signals (trigger: interval[0:01:00], next run at: 2024-12-22 13:29:15 UTC)" (scheduled at 2024-12-22 13:28:15.513737+00:00)
+2024-12-22 21:28:16,390 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/deleteWebhook "HTTP/1.1 200 OK"
+2024-12-22 21:28:16,391 - INFO - Application is stopping. This might take a moment.
+2024-12-22 21:28:16,392 - INFO - Scheduler has been shut down
+2024-12-22 21:28:16,402 - INFO - Application.stop() complete
+2024-12-22 21:28:17,490 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/sendMessage "HTTP/1.1 200 OK"
+2024-12-22 21:28:18,474 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/sendMessage "HTTP/1.1 200 OK"
+2024-12-22 21:28:18,475 - INFO - Job "check_all_signals (trigger: interval[0:01:00], next run at: 2024-12-22 13:29:15 UTC)" executed successfully
+2024-12-22 21:28:18,475 - INFO - Scheduler has been shut down
+2024-12-22 21:28:18,859 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-22 21:28:19,769 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getMe "HTTP/1.1 200 OK"
+2024-12-22 21:28:19,770 - INFO - Added job "check_all_signals" to job store "default"
+2024-12-22 21:28:19,770 - INFO - Scheduler started
+2024-12-22 21:28:19,770 - INFO - Scheduler started
+2024-12-22 21:28:19,771 - INFO - Application started
+2024-12-22 21:28:19,860 - INFO - Running job "check_all_signals (trigger: interval[0:01:00], next run at: 2024-12-22 13:29:19 UTC)" (scheduled at 2024-12-22 13:28:19.859238+00:00)
+2024-12-22 21:28:20,357 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/deleteWebhook "HTTP/1.1 200 OK"
+2024-12-22 21:28:20,357 - INFO - Application is stopping. This might take a moment.
+2024-12-22 21:28:20,359 - INFO - Scheduler has been shut down
+2024-12-22 21:28:20,369 - INFO - Application.stop() complete
+2024-12-22 21:28:21,452 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/sendMessage "HTTP/1.1 200 OK"
+2024-12-22 21:28:22,438 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/sendMessage "HTTP/1.1 200 OK"
+2024-12-22 21:28:22,439 - INFO - Job "check_all_signals (trigger: interval[0:01:00], next run at: 2024-12-22 13:29:19 UTC)" executed successfully
+2024-12-22 21:28:22,439 - INFO - Scheduler has been shut down
+2024-12-22 21:28:22,836 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-22 21:28:23,723 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getMe "HTTP/1.1 200 OK"
+2024-12-22 21:28:23,724 - INFO - Added job "check_all_signals" to job store "default"
+2024-12-22 21:28:23,724 - INFO - Scheduler started
+2024-12-22 21:28:23,724 - INFO - Scheduler started
+2024-12-22 21:28:23,724 - INFO - Application started
+2024-12-22 21:28:23,837 - INFO - Running job "check_all_signals (trigger: interval[0:01:00], next run at: 2024-12-22 13:29:23 UTC)" (scheduled at 2024-12-22 13:28:23.836391+00:00)
+2024-12-22 21:28:24,288 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/deleteWebhook "HTTP/1.1 200 OK"
+2024-12-22 21:28:24,288 - INFO - Application is stopping. This might take a moment.
+2024-12-22 21:28:24,289 - INFO - Scheduler has been shut down
+2024-12-22 21:28:24,300 - INFO - Application.stop() complete
+2024-12-22 21:28:25,372 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/sendMessage "HTTP/1.1 200 OK"
+2024-12-22 21:28:26,330 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/sendMessage "HTTP/1.1 200 OK"
+2024-12-22 21:28:26,331 - INFO - Job "check_all_signals (trigger: interval[0:01:00], next run at: 2024-12-22 13:29:23 UTC)" executed successfully
+2024-12-22 21:28:26,331 - INFO - Scheduler has been shut down
+2024-12-22 21:28:26,722 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-22 21:28:27,620 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getMe "HTTP/1.1 200 OK"
+2024-12-22 21:28:27,620 - INFO - Added job "check_all_signals" to job store "default"
+2024-12-22 21:28:27,621 - INFO - Scheduler started
+2024-12-22 21:28:27,621 - INFO - Scheduler started
+2024-12-22 21:28:27,621 - INFO - Application started
+2024-12-22 21:28:27,723 - INFO - Running job "check_all_signals (trigger: interval[0:01:00], next run at: 2024-12-22 13:29:27 UTC)" (scheduled at 2024-12-22 13:28:27.722073+00:00)
+2024-12-22 21:28:28,665 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/deleteWebhook "HTTP/1.1 200 OK"
+2024-12-22 21:28:28,666 - INFO - Application is stopping. This might take a moment.
+2024-12-22 21:28:28,667 - INFO - Scheduler has been shut down
+2024-12-22 21:28:28,677 - INFO - Application.stop() complete
+2024-12-22 21:28:29,762 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/sendMessage "HTTP/1.1 200 OK"
+2024-12-22 21:28:30,751 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/sendMessage "HTTP/1.1 200 OK"
+2024-12-22 21:28:30,751 - INFO - Job "check_all_signals (trigger: interval[0:01:00], next run at: 2024-12-22 13:29:27 UTC)" executed successfully
+2024-12-22 21:28:30,752 - INFO - Scheduler has been shut down
+2024-12-22 21:28:31,133 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-22 21:28:32,032 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getMe "HTTP/1.1 200 OK"
+2024-12-22 21:28:32,032 - INFO - Added job "check_all_signals" to job store "default"
+2024-12-22 21:28:32,032 - INFO - Scheduler started
+2024-12-22 21:28:32,033 - INFO - Scheduler started
+2024-12-22 21:28:32,033 - INFO - Application started
+2024-12-22 21:28:32,133 - INFO - Running job "check_all_signals (trigger: interval[0:01:00], next run at: 2024-12-22 13:29:32 UTC)" (scheduled at 2024-12-22 13:28:32.132988+00:00)
+2024-12-22 21:28:33,157 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/deleteWebhook "HTTP/1.1 200 OK"
+2024-12-22 21:28:33,157 - INFO - Application is stopping. This might take a moment.
+2024-12-22 21:28:33,159 - INFO - Scheduler has been shut down
+2024-12-22 21:28:33,169 - INFO - Application.stop() complete
+2024-12-22 21:28:34,288 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/sendMessage "HTTP/1.1 200 OK"
+2024-12-22 21:28:35,218 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/sendMessage "HTTP/1.1 200 OK"
+2024-12-22 21:28:35,219 - INFO - Job "check_all_signals (trigger: interval[0:01:00], next run at: 2024-12-22 13:29:32 UTC)" executed successfully
+2024-12-22 21:28:35,219 - INFO - Scheduler has been shut down
+2024-12-22 21:28:35,639 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-22 21:28:36,535 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getMe "HTTP/1.1 200 OK"
+2024-12-22 21:28:36,535 - INFO - Added job "check_all_signals" to job store "default"
+2024-12-22 21:28:36,535 - INFO - Scheduler started
+2024-12-22 21:28:36,536 - INFO - Scheduler started
+2024-12-22 21:28:36,536 - INFO - Application started
+2024-12-22 21:28:36,641 - INFO - Running job "check_all_signals (trigger: interval[0:01:00], next run at: 2024-12-22 13:29:36 UTC)" (scheduled at 2024-12-22 13:28:36.639596+00:00)
+2024-12-22 21:28:37,088 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/deleteWebhook "HTTP/1.1 200 OK"
+2024-12-22 21:28:37,089 - INFO - Application is stopping. This might take a moment.
+2024-12-22 21:28:37,090 - INFO - Scheduler has been shut down
+2024-12-22 21:28:37,101 - INFO - Application.stop() complete
+2024-12-22 21:28:38,164 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/sendMessage "HTTP/1.1 200 OK"
+2024-12-22 21:28:38,910 - ERROR - Job "check_all_signals (trigger: interval[0:01:00], next run at: 2024-12-22 13:29:36 UTC)" raised an exception
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+    self._run_once()
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 1871, in _run_once
+    event_list = self._selector.select(timeout)
+  File "/usr/lib/python3.10/selectors.py", line 469, in select
+    fd_event_list = self._selector.poll(timeout, max_ev)
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/gncm/.local/lib/python3.10/site-packages/apscheduler/executors/base_py3.py", line 30, in run_coroutine_job
+    retval = await job.func(*job.args, **job.kwargs)
+  File "/home/gncm/.local/lib/python3.10/site-packages/telegram/ext/_jobqueue.py", line 240, in job_callback
+    await job.run(job_queue.application)
+  File "/home/gncm/.local/lib/python3.10/site-packages/telegram/ext/_jobqueue.py", line 954, in run
+    await asyncio.shield(self._run(application))
+asyncio.exceptions.CancelledError
+2024-12-22 21:28:39,795 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-22 21:28:40,719 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getMe "HTTP/1.1 200 OK"
+2024-12-22 21:28:40,719 - INFO - Added job "check_all_signals" to job store "default"
+2024-12-22 21:28:40,720 - INFO - Scheduler started
+2024-12-22 21:28:40,720 - INFO - Scheduler started
+2024-12-22 21:28:40,720 - INFO - Application started
+2024-12-22 21:28:40,795 - INFO - Running job "check_all_signals (trigger: interval[0:01:00], next run at: 2024-12-22 13:29:40 UTC)" (scheduled at 2024-12-22 13:28:40.794755+00:00)
+2024-12-22 21:28:41,217 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/deleteWebhook "HTTP/1.1 200 OK"
+2024-12-22 21:28:41,218 - ERROR - Job "check_all_signals (trigger: interval[0:01:00], next run at: 2024-12-22 13:29:40 UTC)" raised an exception
+Traceback (most recent call last):
+  File "/home/gncm/.local/lib/python3.10/site-packages/apscheduler/executors/base_py3.py", line 30, in run_coroutine_job
+    retval = await job.func(*job.args, **job.kwargs)
+  File "/home/gncm/.local/lib/python3.10/site-packages/telegram/ext/_jobqueue.py", line 240, in job_callback
+    await job.run(job_queue.application)
+  File "/home/gncm/.local/lib/python3.10/site-packages/telegram/ext/_jobqueue.py", line 954, in run
+    await asyncio.shield(self._run(application))
+asyncio.exceptions.CancelledError
+2024-12-22 21:28:41,636 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-22 21:28:42,538 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getMe "HTTP/1.1 200 OK"
+2024-12-22 21:28:42,539 - INFO - Added job "check_all_signals" to job store "default"
+2024-12-22 21:28:42,539 - INFO - Scheduler started
+2024-12-22 21:28:42,539 - INFO - Scheduler started
+2024-12-22 21:28:42,539 - INFO - Application started
+2024-12-22 21:28:42,637 - INFO - Running job "check_all_signals (trigger: interval[0:01:00], next run at: 2024-12-22 13:29:42 UTC)" (scheduled at 2024-12-22 13:28:42.636278+00:00)
+2024-12-22 21:28:43,052 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/deleteWebhook "HTTP/1.1 200 OK"
+2024-12-22 21:28:43,053 - ERROR - Job "check_all_signals (trigger: interval[0:01:00], next run at: 2024-12-22 13:29:42 UTC)" raised an exception
+Traceback (most recent call last):
+  File "/home/gncm/.local/lib/python3.10/site-packages/apscheduler/executors/base_py3.py", line 30, in run_coroutine_job
+    retval = await job.func(*job.args, **job.kwargs)
+  File "/home/gncm/.local/lib/python3.10/site-packages/telegram/ext/_jobqueue.py", line 240, in job_callback
+    await job.run(job_queue.application)
+  File "/home/gncm/.local/lib/python3.10/site-packages/telegram/ext/_jobqueue.py", line 954, in run
+    await asyncio.shield(self._run(application))
+asyncio.exceptions.CancelledError
+2024-12-22 21:28:43,474 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-22 21:28:44,371 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getMe "HTTP/1.1 200 OK"
+2024-12-22 21:28:44,372 - INFO - Added job "check_all_signals" to job store "default"
+2024-12-22 21:28:44,372 - INFO - Scheduler started
+2024-12-22 21:28:44,372 - INFO - Scheduler started
+2024-12-22 21:28:44,373 - INFO - Application started
+2024-12-22 21:28:44,475 - INFO - Running job "check_all_signals (trigger: interval[0:01:00], next run at: 2024-12-22 13:29:44 UTC)" (scheduled at 2024-12-22 13:28:44.474160+00:00)
+2024-12-22 21:28:44,903 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/deleteWebhook "HTTP/1.1 200 OK"
+2024-12-22 21:28:44,904 - ERROR - Job "check_all_signals (trigger: interval[0:01:00], next run at: 2024-12-22 13:29:44 UTC)" raised an exception
+Traceback (most recent call last):
+  File "/home/gncm/.local/lib/python3.10/site-packages/apscheduler/executors/base_py3.py", line 30, in run_coroutine_job
+    retval = await job.func(*job.args, **job.kwargs)
+  File "/home/gncm/.local/lib/python3.10/site-packages/telegram/ext/_jobqueue.py", line 240, in job_callback
+    await job.run(job_queue.application)
+  File "/home/gncm/.local/lib/python3.10/site-packages/telegram/ext/_jobqueue.py", line 954, in run
+    await asyncio.shield(self._run(application))
+asyncio.exceptions.CancelledError
+2024-12-22 21:31:00,410 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-22 21:31:01,311 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getMe "HTTP/1.1 200 OK"
+2024-12-22 21:31:01,312 - INFO - Added job "check_all_signals" to job store "default"
+2024-12-22 21:31:01,312 - INFO - Scheduler started
+2024-12-22 21:31:01,312 - INFO - Scheduler started
+2024-12-22 21:31:01,312 - INFO - Application started
+2024-12-22 21:31:01,411 - INFO - Running job "check_all_signals (trigger: interval[0:01:00], next run at: 2024-12-22 13:32:01 UTC)" (scheduled at 2024-12-22 13:31:01.410308+00:00)
+2024-12-22 21:31:01,835 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/deleteWebhook "HTTP/1.1 200 OK"
+2024-12-22 21:31:02,937 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/sendMessage "HTTP/1.1 200 OK"
+2024-12-22 21:31:03,865 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/sendMessage "HTTP/1.1 200 OK"
+2024-12-22 21:31:03,866 - INFO - Job "check_all_signals (trigger: interval[0:01:00], next run at: 2024-12-22 13:32:01 UTC)" executed successfully
+2024-12-22 21:31:12,721 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:31:23,003 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:31:33,287 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:31:43,567 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:31:53,854 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:32:01,411 - INFO - Running job "check_all_signals (trigger: interval[0:01:00], next run at: 2024-12-22 13:33:01 UTC)" (scheduled at 2024-12-22 13:32:01.410308+00:00)
+2024-12-22 21:32:02,954 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/sendMessage "HTTP/1.1 200 OK"
+2024-12-22 21:32:03,866 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/sendMessage "HTTP/1.1 200 OK"
+2024-12-22 21:32:03,867 - INFO - Job "check_all_signals (trigger: interval[0:01:00], next run at: 2024-12-22 13:33:01 UTC)" executed successfully
+2024-12-22 21:32:04,135 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:32:14,417 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:32:24,695 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
+2024-12-22 21:32:34,975 - INFO - HTTP Request: POST https://api.telegram.org/bot7653582014:AAHdpx9P6gCq7poaAcAw0aR6eAG5lEj8i7Q/getUpdates "HTTP/1.1 200 OK"
