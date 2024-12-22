@@ -1,0 +1,15 @@
+# Core Dependencies
+python-dotenv==1.0.0
+python-telegram-bot==20.7
+tradingview-ta==3.3.0
+asyncio==3.4.3
+
+# Logging & File Handling
+logging
+
+# Date & Time
+datetime
+
+# JSON & OS (part of Python standard library, no need to install)
+# json
+# os
